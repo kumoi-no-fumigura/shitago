@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shitago",
  "yomi": "みなもとのしたごうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（10世紀）",
+  "author": "源順（911〜983）",
+  "desc": "梨壺の五人の一人で『和名類聚抄』の編者、源順の家集。言葉遊びの技巧を凝らした歌や、序を添えた歌会の歌を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -3036,6 +3041,6 @@
   "poems": 262,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
